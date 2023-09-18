@@ -2,11 +2,11 @@
   {
     "id": 1,
     "Marque": "Mercedes",
-    "Modele": "Benz-236"
+    "Modele": "Benz-236",
   },
   {
     "id": 2,
     "Marque": "Hundai",
-    "Modele": "HAVAL"
+    "Modele": "HAVAL",
   }
 ]
