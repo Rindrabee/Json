@@ -3,12 +3,14 @@
     "id": 1,
     "Marque": "Hundai",
     "Modele": "Hundai",
+    "Posistion": "Antananarivo",
     "postId": 1
   },
   {
     "id": 2,
     "Marque": "Mercedes-Benz",
     "Modele": "Hundai",
+    "Posistion": "Antsirabe",
     "postId": 1
   }
 ]
