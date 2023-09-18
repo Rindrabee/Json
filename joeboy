@@ -1,17 +1,14 @@
 [
   {
     "id": 1,
-    "title": "Post 1",
-    "marque": "très"
+    "nickname": "Mercedes"
   },
   {
     "id": 2,
-    "title": "Post 2",
-    "marque": "très"
+    "nickname": "BMW"
   },
   {
     "id": 3,
-    "title": "Post 3",
-    "marque": "très"
+    "nickname": "GOLF"
   }
 ]
