@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "Marque": "Mercedes",
-    "Modele": "Benz-236",
+    "Marque": "Hundai",
+    "postId": 1
   },
   {
     "id": 2,
-    "Marque": "Hundai",
-    "Modele": "HAVAL",
+    "Marque": "Mercedes-Benz",
+    "postId": 1
   }
 ]
