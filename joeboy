@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "body": "some comment",
-    "postId": 1
+    "Nickname": "Sedynah",
+    "Marque": 1
   },
   {
     "id": 2,
-    "body": "some comment",
-    "postId": 1
+    "Nickname": "Rindra",
+    "Marque": 1
   }
 ]
