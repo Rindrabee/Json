@@ -1,12 +1,17 @@
 [
   {
     "id": 1,
-    "nickname": "Sedynah",
-    "Marque": 1
+    "nickname": "kiala mainty",
+    "Marque": "Mercedes"
   },
   {
     "id": 2,
-    "nickname": "Rindr",
-    "Marque": 1
+    "nickname": "Mada kely",
+    "Marque": "Hundai"
+  }
+  {
+    "id": 3,
+    "nickname": "SSR",
+    "Marque": "Modax"
   }
 ]
