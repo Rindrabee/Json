@@ -1,17 +1,12 @@
 [
   {
     "id": 1,
-    "nickname": "kiala mainty",
-    "Marque": "Mercedes"
+    "body": "some comment",
+    "postId": 1
   },
   {
     "id": 2,
-    "nickname": "Mada kely",
-    "Marque": "Hundai"
-  }
-  {
-    "id": 3,
-    "nickname": "SSR",
-    "Marque": "Modax"
+    "body": "some comment",
+    "postId": 1
   }
 ]
