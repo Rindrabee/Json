@@ -2,11 +2,13 @@
   {
     "id": 1,
     "Marque": "Hundai",
+    "Modele": "Hundai",
     "postId": 1
   },
   {
     "id": 2,
     "Marque": "Mercedes-Benz",
+    "Modele": "Hundai",
     "postId": 1
   }
 ]
